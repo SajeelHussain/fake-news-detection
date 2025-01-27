@@ -16,10 +16,10 @@ The objective of this project is to train a Long Short-Term Memory (LSTM) networ
 
 Congratulations to the author for successfully completing this project!
 
-- **Certificate:** [View Certificate](#)  
-  *(Add a link to your certificate once it is uploaded or available online.)*  
-- **Completion Date:** January 27, 2025  
-- **Grade:** 100%  
+![Certificate](https://github.com/SajeelHussain/fake-news-detection/blob/main/Certificate/Coursera%20ES6O37YOSVGI.pdf)
+
+
+ 
 
 ---
 
